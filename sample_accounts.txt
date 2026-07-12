@@ -1,0 +1,20 @@
+Rhymio - Sample User Accounts
+
+Hosted website: https://ryhmio.infinityfree.me/
+
+Administrator / Seller
+Email: admin@rhymio.test
+Password: password
+Role: Admin
+
+Buyer
+Email: buyer@rhymio.test
+Password: password
+Role: Buyer
+
+Both accounts are confirmed test accounts. Passwords are stored as password_hash-compatible bcrypt hashes in the database.
+
+Database file for InfinityFree: rhymio_music_infinityfree.sql
+Database file for XAMPP: rhymio_music_xampp.sql
+
+For an existing hosted database, import sample_accounts_repair.sql in phpMyAdmin to migrate and repair both sample accounts.

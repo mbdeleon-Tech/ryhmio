@@ -4,9 +4,11 @@ Rhymio is PHPStorm's CCS0043 final project: a responsive online musical instrume
 
 Live website: https://ryhmio.infinityfree.me/
 
-## Project Member
+## Group Members
 
-- Marco Arsenio De Leon
+- Marco Arsenio B. De Leon
+- Mohammad Al Sharip A. Sakaluran
+- Tracey Justin A. Devilleres
 
 ## Buyer Features
 

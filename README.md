@@ -53,7 +53,7 @@ Live website: https://ryhmio.infinityfree.me/
 
 ## Test Accounts
 
-See `sample_accounts.txt`. If an older database does not accept the sample accounts, import `sample_accounts_repair.sql`.
+See `sample_accounts.txt`.
 
 ## Submission Files
 

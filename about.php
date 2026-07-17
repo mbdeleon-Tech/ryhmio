@@ -11,7 +11,7 @@ include("include/header.php");
             <p><strong>Group:</strong> PHPStorm</p>
             <h2 class="h4 mt-4">Group Members</h2>
             <ul>
-                <li>Marco Arsenio De Leon</li>
+                <li>Marco Arsenio B. De Leon</li>
                 <li>Mohammad Al Sharip A. Sakaluran</li>
                 <li>Tracey Justin A. Devilleres</li>
             </ul>

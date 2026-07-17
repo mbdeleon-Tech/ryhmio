@@ -28,7 +28,7 @@ include("include/header.php");
 <section class="container py-5">
     <div class="d-flex justify-content-between align-items-end gap-3 mb-4">
         <div>
-            <p class="text-uppercase text-primary fw-bold mb-1">Why shop Rhymio</p>
+            <p class="text-uppercase text-primary fw-bold mb-1">Why shop at Rhymio</p>
             <h2 class="section-title mb-0">A complete musical instrument catalog.</h2>
         </div>
         <a href="store.php" class="btn btn-primary d-none d-md-inline-flex">Browse Store</a>

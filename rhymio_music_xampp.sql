@@ -93,8 +93,8 @@ INSERT INTO `products` (`category_id`, `name`, `description`, `price`, `stock`, 
 
 -- Password for both sample accounts is: password
 INSERT INTO `users` (`complete_name`, `email`, `password`, `complete_address`, `contact_number`, `role`, `is_confirmed`) VALUES
-('Rhymio Admin', 'admin@rhymio.test', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2uheWG/igi.', 'Admin Office, Manila', '09170000000', 'admin', 1),
-('Rhymio Buyer', 'buyer@rhymio.test', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2uheWG/igi.', 'Buyer Street, Quezon City', '09280000000', 'buyer', 1);
+('Rhymio Admin', 'admin@rhymio.test', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'Admin Office, Manila', '09170000000', 'admin', 1),
+('Rhymio Buyer', 'buyer@rhymio.test', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'Buyer Street, Quezon City', '09280000000', 'buyer', 1);
 
 INSERT INTO `audit_logs` (`user_id`, `actor_name`, `action`, `details`) VALUES
 (1, 'Rhymio Admin', 'Database seed', 'Initial admin account, buyer account, categories, and products were created.');
